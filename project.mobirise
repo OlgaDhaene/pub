@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "istanbul ekspres.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1425,8 +1425,8 @@
             "timeout": "10",
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/my-grand-kopie-2000x2939-85.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/my-grand-kopie.gif",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1439,8 +1439,8 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo0118-01-kopie-2000x2911-14.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/photo0118-01-kopie.gif",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1642,8 +1642,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0-2000x1462-3-2000x1462-74.jpg",
-                "image": "@PROJECT_PATH@/assets/images/0-2000x1462-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0-1600x1170-28.png",
+                "image": "@PROJECT_PATH@/assets/images/0.gif",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1652,8 +1652,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-4103-2000x1480-77-2000x1480-97.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-4103-2000x1480-77.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-4103-1601x1185-28.png",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4103.gif",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1662,8 +1662,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1456-57-2000x1456-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1456-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1614x1175-5.png",
+                "image": "@PROJECT_PATH@/assets/images/2.gif",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1672,8 +1672,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1456-45-2000x1456-90.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1456-45.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1611x1173-96.png",
+                "image": "@PROJECT_PATH@/assets/images/3.gif",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1682,8 +1682,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1454-79-2000x1454-90.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1454-79.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1613x1173-4.png",
+                "image": "@PROJECT_PATH@/assets/images/4.gif",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1692,8 +1692,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1454-83-2000x1454-58.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-2000x1454-83.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1642x1194-13.png",
+                "image": "@PROJECT_PATH@/assets/images/5.gif",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1702,8 +1702,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1463-67-2000x1463-62.jpg",
-                "image": "@PROJECT_PATH@/assets/images/9-2000x1463-67.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-1591x1164-48.png",
+                "image": "@PROJECT_PATH@/assets/images/9.gif",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1712,8 +1712,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1459-4-2000x1459-31.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-2000x1459-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-1606x1172-41.png",
+                "image": "@PROJECT_PATH@/assets/images/8.gif",
                 "caption": "Type caption here",
                 "active": true
               }

@@ -6,8 +6,8 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
+        "primaryColor": "#fac51c",
+        "secondaryColor": "#03ff00",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10",
-    "uniqCompNum": 25,
+    "uniqCompNum": 38,
     "versionPublish": "3.10",
     "publishType": "github",
     "publishPath": "file:///Users/olgadhaene/Desktop/beeldbank/site"
@@ -34,7 +34,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -46,10 +47,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#e25041"
+              "color": "#03ff00"
             },
             ".link, .dropdown-item": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "font-family": "'PT Sans Narrow', sans-serif"
             },
@@ -63,16 +64,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#c70328"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ea042f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f90432"
             },
             ".bg-color.transparent .link": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -82,7 +83,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -92,27 +93,27 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#e25041"
+              "background-color": "#03ff00"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#f90432",
             "fontSize": "1.2",
             "fontName": {
               "name": "PT Sans Narrow",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "css": "'PT Sans Narrow', sans-serif"
             },
-            "fontColor": "#e25041",
+            "fontColor": "#03ff00",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -129,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -154,7 +155,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Olga",
+          "title": "Olga<br>D'haene&nbsp;",
           "text": "<span style=\"font-style: normal;\">Student, 2BA grafisch ontwerp, Gent</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
@@ -178,7 +179,9 @@
       ]
     },
     "abc.html": {
-      "settings": {},
+      "settings": {
+        "order": 5
+      },
       "components": [
         {
           "_styles": {
@@ -241,21 +244,21 @@
           "_name": "menu",
           "_anchor": "menu-7",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#f90432",
             "fontSize": "1.2",
             "fontName": {
               "name": "PT Sans Narrow",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "css": "'PT Sans Narrow', sans-serif"
             },
-            "fontColor": "#e25041",
+            "fontColor": "#03ff00",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -272,7 +275,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -397,7 +400,9 @@
       ]
     },
     "build.html": {
-      "settings": {},
+      "settings": {
+        "order": 6
+      },
       "components": [
         {
           "_styles": {
@@ -460,21 +465,21 @@
           "_name": "menu",
           "_anchor": "menu-a",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#f90432",
             "fontSize": "1.2",
             "fontName": {
               "name": "PT Sans Narrow",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "css": "'PT Sans Narrow', sans-serif"
             },
-            "fontColor": "#e25041",
+            "fontColor": "#03ff00",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -491,7 +496,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -616,7 +621,9 @@
       ]
     },
     "initiaal.html": {
-      "settings": {},
+      "settings": {
+        "order": 4
+      },
       "components": [
         {
           "_styles": {
@@ -627,10 +634,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#e25041"
+              "color": "#03ff00"
             },
             ".link, .dropdown-item": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "font-family": "'PT Sans Narrow', sans-serif"
             },
@@ -644,16 +651,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#c70328"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ea042f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f90432"
             },
             ".bg-color.transparent .link": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -663,7 +670,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -673,27 +680,27 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#e25041"
+              "background-color": "#03ff00"
             }
           },
           "_name": "menu",
           "_anchor": "menu-d",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#f90432",
             "fontSize": "1.2",
             "fontName": {
               "name": "PT Sans Narrow",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "css": "'PT Sans Narrow', sans-serif"
             },
-            "fontColor": "#e25041",
+            "fontColor": "#03ff00",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -710,7 +717,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -795,7 +802,9 @@
       ]
     },
     "tweeluik.html": {
-      "settings": {},
+      "settings": {
+        "order": 7
+      },
       "components": [
         {
           "_styles": {
@@ -806,10 +815,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#e25041"
+              "color": "#03ff00"
             },
             ".link, .dropdown-item": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "font-family": "'PT Sans Narrow', sans-serif"
             },
@@ -823,16 +832,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#c70328"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ea042f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f90432"
             },
             ".bg-color.transparent .link": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -842,7 +851,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -852,27 +861,27 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#e25041"
+              "background-color": "#03ff00"
             }
           },
           "_name": "menu",
           "_anchor": "menu-g",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#f90432",
             "fontSize": "1.2",
             "fontName": {
               "name": "PT Sans Narrow",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "css": "'PT Sans Narrow', sans-serif"
             },
-            "fontColor": "#e25041",
+            "fontColor": "#03ff00",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -889,7 +898,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -909,42 +918,58 @@
           "text": ""
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "slider3",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 4,
-            "images": [
+            "autoplay": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
               {
-                "tags": "Awesome",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/duo.gif",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/duo-4311x2917-90.png",
-                "image": "@PROJECT_PATH@/assets/images/duo.gif",
-                "caption": "Type caption here",
-                "active": true
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc03271-2000x1500-79.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "spacing": "0",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
           },
-          "_anchor": "gallery2-i",
-          "articleLayout": false,
-          "allItem": "All"
+          "_anchor": "slider3-q",
+          "articleLayout": false
         }
       ]
     },
     "rechthoek.html": {
-      "settings": {},
+      "settings": {
+        "order": 8
+      },
       "components": [
         {
           "_styles": {
@@ -955,10 +980,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#e25041"
+              "color": "#03ff00"
             },
             ".link, .dropdown-item": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "font-family": "'PT Sans Narrow', sans-serif"
             },
@@ -972,16 +997,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#c70328"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ea042f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f90432"
             },
             ".bg-color.transparent .link": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -991,7 +1016,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1001,27 +1026,27 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#e25041"
+              "background-color": "#03ff00"
             }
           },
           "_name": "menu",
           "_anchor": "menu-j",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#f90432",
             "fontSize": "1.2",
             "fontName": {
               "name": "PT Sans Narrow",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "css": "'PT Sans Narrow', sans-serif"
             },
-            "fontColor": "#e25041",
+            "fontColor": "#03ff00",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1038,7 +1063,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1058,42 +1083,63 @@
           "text": ""
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-p",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zoe-en-olga-vierkant-2000x1859-51-2000x1859-65.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zoe-en-olga-vierkant-2000x1859-51.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
-          "_anchor": "gallery2-l",
-          "articleLayout": false,
-          "allItem": "All"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/zoe-en-olga-vierkant-1400x1301-49.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
     },
     "plaat.html": {
-      "settings": {},
+      "settings": {
+        "order": 9
+      },
       "components": [
         {
           "_styles": {
@@ -1104,10 +1150,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#e25041"
+              "color": "#03ff00"
             },
             ".link, .dropdown-item": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "font-family": "'PT Sans Narrow', sans-serif"
             },
@@ -1121,16 +1167,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#c70328"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ea042f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f90432"
             },
             ".bg-color.transparent .link": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1140,7 +1186,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1150,27 +1196,27 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#e25041"
+              "background-color": "#03ff00"
             }
           },
           "_name": "menu",
           "_anchor": "menu-m",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#f90432",
             "fontSize": "1.2",
             "fontName": {
               "name": "PT Sans Narrow",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "css": "'PT Sans Narrow', sans-serif"
             },
-            "fontColor": "#e25041",
+            "fontColor": "#03ff00",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1187,7 +1233,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1248,6 +1294,616 @@
           "_anchor": "gallery2-o",
           "articleLayout": false,
           "allItem": "All"
+        }
+      ]
+    },
+    "istanbul ekspres.html": {
+      "settings": {
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#03ff00"
+            },
+            ".link, .dropdown-item": {
+              "color": "#03ff00",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c70328"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ea042f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f90432"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#03ff00",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#03ff00"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-r",
+          "_params": {
+            "bgColor": "#f90432",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
+            },
+            "fontColor": "#03ff00",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "timeout": "10",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/my-grand-kopie-2000x2939-85.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/photo0118-01-kopie-2000x2911-14.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-t",
+          "articleLayout": false
+        }
+      ]
+    },
+    "harbarium grafica.html": {
+      "settings": {
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#03ff00"
+            },
+            ".link, .dropdown-item": {
+              "color": "#03ff00",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c70328"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ea042f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f90432"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#03ff00",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#03ff00"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-u",
+          "_params": {
+            "bgColor": "#f90432",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
+            },
+            "fontColor": "#03ff00",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-w",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=-X-p0107zWo",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0-2000x1462-3-2000x1462-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0-2000x1462-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-4103-2000x1480-77-2000x1480-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4103-2000x1480-77.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1456-57-2000x1456-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1456-57.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1456-45-2000x1456-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1456-45.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1454-79-2000x1454-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1454-79.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1454-83-2000x1454-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1454-83.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1463-67-2000x1463-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1463-67.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1459-4-2000x1459-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1459-4.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-x",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#03ff00"
+            },
+            ".link, .dropdown-item": {
+              "color": "#03ff00",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'PT Sans Narrow', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c70328"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ea042f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f90432"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#03ff00",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#03ff00"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-y",
+          "_params": {
+            "bgColor": "#f90432",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "PT Sans Narrow",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "css": "'PT Sans Narrow', sans-serif"
+            },
+            "fontColor": "#03ff00",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">work</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">herbarium grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">istanbul expres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-10",
+          "_params": {
+            "labelsColor": "#000000",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": false
+          },
+          "title": "CONTACTEER MIJ",
+          "subtitle": "",
+          "form": {
+            "action": "r0621091@student.luca-arts.be",
+            "alerts": {
+              "success": "Dankjewel!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "istanbul ekspres.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -17,14 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10",
     "uniqCompNum": 38,
-    "versionPublish": "3.10",
-    "publishType": "github",
-    "publishPath": "file:///Users/olgadhaene/Desktop/beeldbank/site"
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
@@ -1089,6 +1088,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-p",
           "_params": {
+            "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
@@ -1586,6 +1586,7 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-w",
           "_params": {
+            "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
@@ -1853,6 +1854,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "form1-10",
           "_params": {
             "labelsColor": "#000000",
@@ -1898,12 +1904,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         }
       ]
     }

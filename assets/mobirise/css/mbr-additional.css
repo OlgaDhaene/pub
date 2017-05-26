@@ -489,11 +489,11 @@ h6,
   color: #ffffff;
 }
 #menu-7 .navbar-toggler {
-  color: #e25041;
+  color: #03ff00;
 }
 #menu-7 .link,
 #menu-7 .dropdown-item {
-  color: #e25041;
+  color: #03ff00;
   font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-7 .link {
@@ -511,22 +511,22 @@ h6,
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-menu {
-  background: #e6e6e6;
+  background: #c70328;
 }
 #menu-7 .nav-dropdown-sm .link:focus,
 #menu-7 .nav-dropdown-sm .link:hover,
 #menu-7 .nav-dropdown-sm .dropdown-item:focus,
 #menu-7 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #ea042f!important;
 }
 #menu-7 .navbar,
 #menu-7 .nav-dropdown-sm,
 #menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-7 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #f90432;
 }
 #menu-7 .bg-color.transparent .link {
-  color: #e25041;
+  color: #03ff00;
   transition: none;
 }
 #menu-7 .bg-color.transparent.opened .link {
@@ -538,7 +538,7 @@ h6,
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #fac51c!important;
 }
 #menu-7.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -548,7 +548,7 @@ h6,
 }
 #menu-7 .close-icon::before,
 #menu-7 .close-icon::after {
-  background-color: #e25041;
+  background-color: #03ff00;
 }
 
 #menu-a .hide-buttons .nav-btn {
@@ -558,11 +558,11 @@ h6,
   color: #ffffff;
 }
 #menu-a .navbar-toggler {
-  color: #e25041;
+  color: #03ff00;
 }
 #menu-a .link,
 #menu-a .dropdown-item {
-  color: #e25041;
+  color: #03ff00;
   font-family: 'PT Sans Narrow', sans-serif;
 }
 #menu-a .link {
@@ -580,22 +580,22 @@ h6,
 }
 #menu-a .link[aria-expanded="true"],
 #menu-a .dropdown-menu {
-  background: #e6e6e6;
+  background: #c70328;
 }
 #menu-a .nav-dropdown-sm .link:focus,
 #menu-a .nav-dropdown-sm .link:hover,
 #menu-a .nav-dropdown-sm .dropdown-item:focus,
 #menu-a .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #ea042f!important;
 }
 #menu-a .navbar,
 #menu-a .nav-dropdown-sm,
 #menu-a .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-a .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #f90432;
 }
 #menu-a .bg-color.transparent .link {
-  color: #e25041;
+  color: #03ff00;
   transition: none;
 }
 #menu-a .bg-color.transparent.opened .link {
@@ -607,7 +607,7 @@ h6,
 }
 #menu-a .link[aria-expanded="true"],
 #menu-a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #fac51c!important;
 }
 #menu-a.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -617,7 +617,7 @@ h6,
 }
 #menu-a .close-icon::before,
 #menu-a .close-icon::after {
-  background-color: #e25041;
+  background-color: #03ff00;
 }
 
 #menu-d .hide-buttons .nav-btn {
@@ -1104,73 +1104,4 @@ h6,
 }
 #form1-10 .form-control-label {
   color: #000000;
-}
-
-#menu-12 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-12 .navbar-caption {
-  color: #ffffff;
-}
-#menu-12 .navbar-toggler {
-  color: #03ff00;
-}
-#menu-12 .link,
-#menu-12 .dropdown-item {
-  color: #03ff00;
-  font-family: 'PT Sans Narrow', sans-serif;
-}
-#menu-12 .link {
-  font-size: 1.2rem;
-}
-#menu-12 .dropdown-item,
-#menu-12 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
-}
-#menu-12 .link:hover,
-#menu-12 .dropdown-item:hover,
-#menu-12 .link:focus,
-#menu-12 .dropdown-item:focus {
-  color: #fac51c;
-}
-#menu-12 .link[aria-expanded="true"],
-#menu-12 .dropdown-menu {
-  background: #c70328;
-}
-#menu-12 .nav-dropdown-sm .link:focus,
-#menu-12 .nav-dropdown-sm .link:hover,
-#menu-12 .nav-dropdown-sm .dropdown-item:focus,
-#menu-12 .nav-dropdown-sm .dropdown-item:hover {
-  background: #ea042f!important;
-}
-#menu-12 .navbar,
-#menu-12 .nav-dropdown-sm,
-#menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-12 .nav-dropdown-sm .dropdown-menu {
-  background: #f90432;
-}
-#menu-12 .bg-color.transparent .link {
-  color: #03ff00;
-  transition: none;
-}
-#menu-12 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-12 .bg-color.transparent.opened .link:hover,
-#menu-12 .bg-color.transparent.opened .link:focus {
-  color: #fac51c;
-}
-#menu-12 .link[aria-expanded="true"],
-#menu-12 .dropdown-item[aria-expanded="true"] {
-  color: #fac51c!important;
-}
-#menu-12.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-12 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-12 .close-icon::before,
-#menu-12 .close-icon::after {
-  background-color: #03ff00;
 }

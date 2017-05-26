@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "harbarium grafica.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10",
-    "uniqCompNum": 41,
+    "uniqCompNum": 44,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -133,7 +133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -195,10 +195,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#e25041"
+              "color": "#03ff00"
             },
             ".link, .dropdown-item": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "font-family": "'PT Sans Narrow', sans-serif"
             },
@@ -212,16 +212,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#c70328"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ea042f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f90432"
             },
             ".bg-color.transparent .link": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -231,7 +231,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -241,7 +241,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#e25041"
+              "background-color": "#03ff00"
             }
           },
           "_name": "menu",
@@ -278,7 +278,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -312,8 +312,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc2-3585x2689-57.png",
-                "image": "@PROJECT_PATH@/assets/images/abc2.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/abc2-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc2-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -322,8 +322,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc3-3531x2648-82.png",
-                "image": "@PROJECT_PATH@/assets/images/abc3.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/abc3-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc3-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -332,8 +332,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc4-3648x2736-23.png",
-                "image": "@PROJECT_PATH@/assets/images/abc4.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/abc4-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc4-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -342,8 +342,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc6-3569x2677-34.png",
-                "image": "@PROJECT_PATH@/assets/images/abc6.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/abc6-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc6-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -352,8 +352,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc10-3520x2640-98.png",
-                "image": "@PROJECT_PATH@/assets/images/abc10.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/abc11-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc11-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -362,8 +362,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc11-3502x2626-50.png",
-                "image": "@PROJECT_PATH@/assets/images/abc11.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/abc10-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc10-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -372,8 +372,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc13-3558x2668-81.png",
-                "image": "@PROJECT_PATH@/assets/images/abc13.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/abc13-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc13-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -382,8 +382,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc15-3591x2693-12.png",
-                "image": "@PROJECT_PATH@/assets/images/abc15.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/abc15-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abc15-1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -416,10 +416,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#e25041"
+              "color": "#03ff00"
             },
             ".link, .dropdown-item": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
               "font-family": "'PT Sans Narrow', sans-serif"
             },
@@ -433,16 +433,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#c70328"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ea042f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f90432"
             },
             ".bg-color.transparent .link": {
-              "color": "#e25041",
+              "color": "#03ff00",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -452,7 +452,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -462,7 +462,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#e25041"
+              "background-color": "#03ff00"
             }
           },
           "_name": "menu",
@@ -499,7 +499,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -533,8 +533,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/build1-3648x2736-2.png",
-                "image": "@PROJECT_PATH@/assets/images/build1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/build1-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/build1-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -543,18 +543,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/build2-3574x2680-23.png",
-                "image": "@PROJECT_PATH@/assets/images/build2.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/build2-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/build2-1.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/build7-3453x2590-3.png",
-                "image": "@PROJECT_PATH@/assets/images/build7.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/build7-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/build7-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -563,8 +563,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/build3-3488x2616-84.png",
-                "image": "@PROJECT_PATH@/assets/images/build3.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/build3-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/build3-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -573,8 +573,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/build4-3496x2622-75.png",
-                "image": "@PROJECT_PATH@/assets/images/build4.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/build4-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/build4-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -583,8 +583,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/build9-3519x2639-79.png",
-                "image": "@PROJECT_PATH@/assets/images/build9.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/build9-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/build9-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -593,8 +593,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/build6-3539x2654-20.png",
-                "image": "@PROJECT_PATH@/assets/images/build6.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/build6-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/build6-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -603,10 +603,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/build10-3493x2619-17.png",
-                "image": "@PROJECT_PATH@/assets/images/build10.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/build10-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/build10-1.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -720,7 +720,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -754,40 +754,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03033.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03033.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03033.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03033.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 0,
@@ -901,7 +901,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -933,7 +933,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/duo.gif",
+                "image": "@PROJECT_PATH@/assets/images/duo-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -947,7 +947,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc03271-2000x1500-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03271-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1066,7 +1066,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1092,7 +1092,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-p",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "59",
             "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
@@ -1116,7 +1116,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/zoe-en-olga-vierkant-1400x1301-49.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zoe-en-olga-vierkant-1.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1237,7 +1237,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1257,47 +1257,51 @@
           "text": ""
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "slider3",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "images": [
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
               {
-                "tags": "Awesome",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ep-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ep-3326x1746-97.png",
-                "image": "@PROJECT_PATH@/assets/images/ep.gif",
-                "caption": "Type caption here",
-                "active": false
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "tags": "Responsive",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/ep-achter-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ep-achter-3336x1779-55.png",
-                "image": "@PROJECT_PATH@/assets/images/ep-achter.gif",
-                "caption": "Type caption here",
-                "active": true
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
           },
-          "_anchor": "gallery2-o",
-          "articleLayout": false,
-          "allItem": "All"
+          "_anchor": "slider3-17",
+          "articleLayout": false
         }
       ]
     },
@@ -1398,7 +1402,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1430,7 +1434,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/my-grand-kopie.gif",
+                "image": "@PROJECT_PATH@/assets/images/dsc01101-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1443,8 +1447,50 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/doos.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/photo0118-01-kopie.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/my-grand-kopie.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/photo0118-01-kopie.gif",
+                "image": "@PROJECT_PATH@/assets/images/dscn0037.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1563,7 +1609,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1639,7 +1685,7 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
+            "paddingTop": "0",
             "paddingBottom": 4,
             "images": [
               {
@@ -1647,8 +1693,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0-1600x1170-28.png",
-                "image": "@PROJECT_PATH@/assets/images/0.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-2-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-2-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1657,8 +1703,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-4103-1601x1185-28.png",
-                "image": "@PROJECT_PATH@/assets/images/dsc-4103.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/0-800x585.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1667,8 +1713,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-1614x1175-5.png",
-                "image": "@PROJECT_PATH@/assets/images/2.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-1-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-1-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1677,8 +1723,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-1611x1173-96.png",
-                "image": "@PROJECT_PATH@/assets/images/3.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-3-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-3-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1687,8 +1733,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-1613x1173-4.png",
-                "image": "@PROJECT_PATH@/assets/images/4.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-4-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-4-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1697,8 +1743,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-1642x1194-13.png",
-                "image": "@PROJECT_PATH@/assets/images/5.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-5-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-5-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1707,8 +1753,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9-1591x1164-48.png",
-                "image": "@PROJECT_PATH@/assets/images/9.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-7-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-7-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1717,8 +1763,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8-1606x1172-41.png",
-                "image": "@PROJECT_PATH@/assets/images/8.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-9-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-9-kopie.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-8-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-8-kopie.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-6-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-6-kopie.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1834,7 +1900,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1909,187 +1975,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
-        }
-      ]
-    },
-    "page10.html": {
-      "settings": {
-        "order": 4
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#03ff00"
-            },
-            ".link, .dropdown-item": {
-              "color": "#03ff00",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-family": "'PT Sans Narrow', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.2rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#c70328"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ea042f!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f90432"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#03ff00",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#03ff00"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-12",
-          "_params": {
-            "bgColor": "#f90432",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "PT Sans Narrow",
-              "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "css": "'PT Sans Narrow', sans-serif"
-            },
-            "fontColor": "#03ff00",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">huis</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harbarium grafica.html\">Herbarium Grafica</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"istanbul ekspres.html\">Istanbul Ekspres</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"initiaal.html\">initiaal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abc.html\">abeeceedarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"build.html\">build hamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tweeluik.html\">tweeluik</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rechthoek.html\">rechthoeken</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"plaat.html\">plaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-13",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14-2000x1500-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033-2000x1500-14.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-14",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     }

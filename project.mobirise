@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "istanbul ekspres.html",
+    "currentPage": "harbarium grafica.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1693,8 +1693,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boek-2-kopie-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boek-2-kopie.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-2-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-2-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1713,8 +1713,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boek-1-kopie-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boek-1-kopie.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-1-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-1-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1723,8 +1723,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boek-3-kopie-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boek-3-kopie.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-3-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-3-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1733,8 +1733,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boek-4-kopie-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boek-4-kopie.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-4-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-4-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1743,8 +1743,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boek-5-kopie-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boek-5-kopie.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-5-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-5-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1753,8 +1753,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boek-7-kopie-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boek-7-kopie.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-7-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-7-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1773,8 +1773,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boek-8-kopie-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boek-8-kopie.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-8-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-8-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1783,8 +1783,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boek-6-kopie-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boek-6-kopie.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boek-6-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boek-6-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }

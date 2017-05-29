@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "harbarium grafica.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1634,13 +1634,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#c70328"
+              "background": "#cc0000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ea042f!important"
+              "background": "#f00000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f90432"
+              "background": "#ff0000"
             },
             ".bg-color.transparent .link": {
               "color": "#03ff00",
@@ -1744,7 +1744,7 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": false,
-            "showText": false,
+            "showText": true,
             "showButtons": false
           },
           "media": {
@@ -1766,8 +1766,13 @@
             }
           },
           "title": "",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "<p>Best bekijken in youtube zelf, op iets lagere resolutie.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "gallery1",

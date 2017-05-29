@@ -442,19 +442,19 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #c70328;
+  background: #cc0000;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #ea042f!important;
+  background: #f00000!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #f90432;
+  background: #ff0000;
 }
 #menu-0 .bg-color.transparent .link {
   color: #03ff00;
@@ -649,19 +649,19 @@ h6,
 }
 #menu-d .link[aria-expanded="true"],
 #menu-d .dropdown-menu {
-  background: #c70328;
+  background: #cc0000;
 }
 #menu-d .nav-dropdown-sm .link:focus,
 #menu-d .nav-dropdown-sm .link:hover,
 #menu-d .nav-dropdown-sm .dropdown-item:focus,
 #menu-d .nav-dropdown-sm .dropdown-item:hover {
-  background: #ea042f!important;
+  background: #f00000!important;
 }
 #menu-d .navbar,
 #menu-d .nav-dropdown-sm,
 #menu-d .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-d .nav-dropdown-sm .dropdown-menu {
-  background: #f90432;
+  background: #ff0000;
 }
 #menu-d .bg-color.transparent .link {
   color: #03ff00;
@@ -687,6 +687,9 @@ h6,
 #menu-d .close-icon::before,
 #menu-d .close-icon::after {
   background-color: #03ff00;
+}
+#msg-box5-1a P {
+  text-align: left;
 }
 
 #menu-g .hide-buttons .nav-btn {
@@ -787,19 +790,19 @@ h6,
 }
 #menu-j .link[aria-expanded="true"],
 #menu-j .dropdown-menu {
-  background: #c70328;
+  background: #cc0000;
 }
 #menu-j .nav-dropdown-sm .link:focus,
 #menu-j .nav-dropdown-sm .link:hover,
 #menu-j .nav-dropdown-sm .dropdown-item:focus,
 #menu-j .nav-dropdown-sm .dropdown-item:hover {
-  background: #ea042f!important;
+  background: #f00000!important;
 }
 #menu-j .navbar,
 #menu-j .nav-dropdown-sm,
 #menu-j .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-j .nav-dropdown-sm .dropdown-menu {
-  background: #f90432;
+  background: #ff0000;
 }
 #menu-j .bg-color.transparent .link {
   color: #03ff00;

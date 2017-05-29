@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "harbarium grafica.html",
+    "currentPage": "initiaal.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -754,40 +754,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03033-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03033-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03033-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc03033-1.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc03033-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc03033.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": 0,
@@ -932,8 +932,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/duo-1.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/duo-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -946,8 +946,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc03271-1.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc03271-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
